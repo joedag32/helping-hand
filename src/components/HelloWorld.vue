@@ -27,6 +27,10 @@
       <li><a href="https://vue-loader.vuejs.org" target="_blank" rel="noopener">vue-loader</a></li>
       <li><a href="https://github.com/vuejs/awesome-vue" target="_blank" rel="noopener">awesome-vue</a></li>
     </ul>
+    <h3>Some testing stuff</h3>
+    <ul>
+      <li>Just posting some content to a GitHub build to see if Actions are setup correctly.</li>
+    </ul>
   </div>
 </template>
 
